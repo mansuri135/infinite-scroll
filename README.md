@@ -5,3 +5,4 @@
 ## NPM packages
 
 1. react-intersection-observer
+2. framer-motion
